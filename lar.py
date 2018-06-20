@@ -7,4 +7,4 @@ def largest(arr,n):
 arr=[1,2,3]
 n=len(arr)
 ans=largest(arr,n)
-print("largest in given array is",ans)
+print("largest number is",ans)
